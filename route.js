@@ -1,4 +1,4 @@
-var XRegExp = require('xregexp').XRegExp;
+var XRegExp = require('xregexp');
 
 exports = module.exports = Route;
 
